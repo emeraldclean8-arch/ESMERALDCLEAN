@@ -80,7 +80,7 @@ const HomePage = () => {
                 </p>
 
                 <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4 pt-4">
-                  <Link to="/booking">
+                  <Link to="/contact">
                     <Button variant="primary" size="lg" className="px-8 py-4 text-lg bg-[#007A5E] text-[#FDFBF7] hover:bg-[#00624b] shadow-lg hover:shadow-xl transition-all duration-300 rounded-full">
                       Book Your Cleaning
                     </Button>
