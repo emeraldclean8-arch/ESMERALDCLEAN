@@ -70,7 +70,7 @@ const Footer = () => {
                 <Link to="/about" className="hover:text-black  hover:translate-x-1 transition-all duration-300 inline-block">About Us</Link>
               </li>
               <li>
-                <Link to="/booking" className="hover:text-black  hover:translate-x-1 transition-all duration-300 inline-block">Book Now</Link>
+                <Link to="/contact" className="hover:text-black  hover:translate-x-1 transition-all duration-300 inline-block">Book Now</Link>
               </li>
             </ul>
           </div>
